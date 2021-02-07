@@ -78,7 +78,7 @@
 .back {
   height: 30px;
   width: 80px;
-  background-image: url(/img/double-arrow-left.png);
+  background-image: url(img/double-arrow-left.png);
   background-position: center;
 }
 
@@ -86,7 +86,7 @@
   height: 30px;
   width: 80px;
   background-color: rgba(255, 255, 255, 0.3);
-  background-image: url(/img/play.png);
+  background-image: url(img/play.png);
   background-position: center;
   background-size: 52px;
 }
@@ -94,7 +94,7 @@
 .forward {
   height: 30px;
   width: 80px;
-  background-image: url(/img/double-arrow-right.png);
+  background-image: url(img/double-arrow-right.png);
   background-position: center;
 }
 
